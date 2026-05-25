@@ -1,0 +1,26 @@
+{
+  "sessionId": "sess_fozal322",
+  "fullHistory": [
+    {
+      "role": "user",
+      "content": "Give a brief, friendly welcome overview of what you can help with in this project. Use markdown with emoji section headers. Cover: Poses & Movement, Physics Simulation, Joint & Hand Control, and Code & Controls. Never use the word \"Animations\" — always say \"Physics Simulation\" instead. Keep it concise around 8–10 lines."
+    },
+    {
+      "role": "assistant",
+      "content": "## 👋 Welcome to Your Roba Studio Project!  \n\n**🤖 Poses & Movement** – I can help you design and fine‑tune robot poses, from a neutral stance to waving or a celebratory pose, using the correct `data.ctrl` indices.  \n\n**⚙️ Physics Simulation** – Want realistic gravity, contacts, or custom friction? I’ll adjust MuJoCo options, defaults, and assets so the simulation behaves naturally.  \n\n**🖐️ Joint & Hand Control** – I know the exact joint and actuator mappings for the Unitree G1, including the subtle direction rules for shoulders, elbows, and fingers.  \n\n**💻 Code & Controls** – Need to edit `main.js`, add keyboard shortcuts, or create new MJCF elements? I’ll write or modify the JavaScript and XML safely and validate everything.  \n\nFeel free to ask for any of the above, and we’ll get your robot moving smoothly in Roba Studio!"
+    }
+  ],
+  "agentHistory": [
+    {
+      "role": "user",
+      "content": "Give a brief, friendly welcome overview of what you can help with in this project. Use markdown with emoji section headers. Cover: Poses & Movement, Physics Simulation, Joint & Hand Control, and Code & Controls. Never use the word \"Animations\" — always say \"Physics Simulation\" instead. Keep it concise around 8–10 lines."
+    },
+    {
+      "role": "assistant",
+      "content": "## 👋 Welcome to Your Roba Studio Project!  \n\n**🤖 Poses & Movement** – I can help you design and fine‑tune robot poses, from a neutral stance to waving or a celebratory pose, using the correct `data.ctrl` indices.  \n\n**⚙️ Physics Simulation** – Want realistic gravity, contacts, or custom friction? I’ll adjust MuJoCo options, defaults, and assets so the simulation behaves naturally.  \n\n**🖐️ Joint & Hand Control** – I know the exact joint and actuator mappings for the Unitree G1, including the subtle direction rules for shoulders, elbows, and fingers.  \n\n**💻 Code & Controls** – Need to edit `main.js`, add keyboard shortcuts, or create new MJCF elements? I’ll write or modify the JavaScript and XML safely and validate everything.  \n\nFeel free to ask for any of the above, and we’ll get your robot moving smoothly in Roba Studio!"
+    }
+  ],
+  "compressionCount": 0,
+  "workspaceRoot": "/home/robacrh/roba/roba-laravel/repos/faridhossainrd/my-mujoco-sim-1779731377",
+  "savedAt": 1779731812645
+}
