@@ -1,0 +1,27 @@
+{
+  "sessionId": "sess_a1eg1m0v",
+  "fullHistory": [
+    {
+      "role": "user",
+      "content": "Give a brief, friendly welcome overview of what you can help with in this project. Use markdown with emoji section headers. Cover: Poses & Movement, Physics Simulation, Joint & Hand Control, and Code & Controls. Never use the word \"Animations\" — always say \"Physics Simulation\" instead. Keep it concise around 8–10 lines."
+    },
+    {
+      "role": "assistant",
+      "content": "## 👋 Welcome to Your Roba Studio Project!\n\n**🤸‍♀️ Poses & Movement**  \nCreate and edit robot poses, define joint ranges, and switch between saved configurations.\n\n**⚙️ Physics Simulation**  \nSet simulation options (gravity, timestep, solver), tune friction/contacts, and run stable dynamics.\n\n**🤖 Joint & Hand Control**  \nAdd motors, position/velocity actuators, and sensors for precise joint and hand manipulation.\n\n**💻 Code & Controls**  \nWrite JavaScript controllers, bind keyboard/gamepad inputs, and integrate custom algorithms."
+    }
+  ],
+  "agentHistory": [
+    {
+      "role": "user",
+      "content": "Give a brief, friendly welcome overview of what you can help with in this project. Use markdown with emoji section headers. Cover: Poses & Movement, Physics Simulation, Joint & Hand Control, and Code & Controls. Never use the word \"Animations\" — always say \"Physics Simulation\" instead. Keep it concise around 8–10 lines."
+    },
+    {
+      "role": "assistant",
+      "content": "## 👋 Welcome to Your Roba Studio Project!\n\n**🤸‍♀️ Poses & Movement**  \nCreate and edit robot poses, define joint ranges, and switch between saved configurations.\n\n**⚙️ Physics Simulation**  \nSet simulation options (gravity, timestep, solver), tune friction/contacts, and run stable dynamics.\n\n**🤖 Joint & Hand Control**  \nAdd motors, position/velocity actuators, and sensors for precise joint and hand manipulation.\n\n**💻 Code & Controls**  \nWrite JavaScript controllers, bind keyboard/gamepad inputs, and integrate custom algorithms."
+    }
+  ],
+  "compressionCount": 0,
+  "workspaceRoot": "/home/robacrh/roba/roba-laravel/repos/faridhossainrd/my-mujoco-sim-1779731377",
+  "savedAt": 1779731390216,
+  "name": "welcaol"
+}
