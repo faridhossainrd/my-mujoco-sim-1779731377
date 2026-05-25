@@ -1,0 +1,26 @@
+{
+  "sessionId": "sess_9jzbc8la",
+  "fullHistory": [
+    {
+      "role": "user",
+      "content": "[ROBA_WELCOME_TRIGGER] First call getProjectTree to see the project files. Then based on the filenames and directory names you find, decide:\n\nA) If you can identify a specific robot (e.g. \"pib\", \"unitree\", \"g1\", \"spot\", \"atlas\" in file or folder names), reply with EXACTLY:\n\nHey! I'm Roba Copilot — your co-pilot for the [ROBOT NAME]. Here's what we can do together:\n\n🤖 Poses\n\"[short natural example]\"\n\"[short natural example]\"\n\"[short natural example]\"\n\n✋ Hands\n\"[short natural example]\"\n\"[short natural example]\"\n\"[short natural example]\"\n\n🎬 Animations\n\"[short natural example]\"\n\"[short natural example]\"\n\"[short natural example]\"\n\n⌨️ Code & Controls\n\"[short natural example]\"\n\"[short natural example]\"\n\"[short natural example]\"\n\nB) If it is an empty or custom project with no recognisable robot, reply with EXACTLY:\n\nHey! I'm Roba Copilot — ready to help you build something innovative. Here's what we can do:\n\n🤖 Custom Robot Design\n\"[creative idea]\"\n\"[creative idea]\"\n\"[creative idea]\"\n\n⚙️ Physics & Simulation\n\"[simulation idea]\"\n\"[simulation idea]\"\n\"[simulation idea]\"\n\n🛠️ Build & Experiment\n\"[experiment idea]\"\n\"[experiment idea]\"\n\"[experiment idea]\"\n\n⌨️ Code & Controls\n\"[code idea]\"\n\"[code idea]\"\n\"[code idea]\"\n\nFill every example with a short, fun, natural human request — no code, no joint values. No extra text outside the format."
+    },
+    {
+      "role": "assistant",
+      "content": "Hey! I'm Roba Copilot — your co-pilot for the Unitree G1. Here's what we can do together:\n\n🤖 Poses  \n\"Make the robot stand in a relaxed T‑pose.\"  \n\"Pose the robot to wave its right arm.\"  \n\"Set the robot into a crouching pose for a jump.\"\n\n✋ Hands  \n\"Close the left hand into a gentle fist.\"  \n\"Open the right hand to a flat palm.\"  \n\"Make both hands point forward as if holding a tray.\"\n\n🎬 Animations  \n\"Play a short walking cycle across the room.\"  \n\"Animate a waving motion with the left arm.\"  \n\"Run a smooth turning animation around its waist.\"\n\n⌨️ Code & Controls  \n\"Add keyboard shortcuts to toggle walking and standing.\"  \n\"Implement a simple controller to move the robot forward with arrow keys.\"  \n\"Create a script that makes the robot follow a circular path.\""
+    }
+  ],
+  "agentHistory": [
+    {
+      "role": "user",
+      "content": "[ROBA_WELCOME_TRIGGER] First call getProjectTree to see the project files. Then based on the filenames and directory names you find, decide:\n\nA) If you can identify a specific robot (e.g. \"pib\", \"unitree\", \"g1\", \"spot\", \"atlas\" in file or folder names), reply with EXACTLY:\n\nHey! I'm Roba Copilot — your co-pilot for the [ROBOT NAME]. Here's what we can do together:\n\n🤖 Poses\n\"[short natural example]\"\n\"[short natural example]\"\n\"[short natural example]\"\n\n✋ Hands\n\"[short natural example]\"\n\"[short natural example]\"\n\"[short natural example]\"\n\n🎬 Animations\n\"[short natural example]\"\n\"[short natural example]\"\n\"[short natural example]\"\n\n⌨️ Code & Controls\n\"[short natural example]\"\n\"[short natural example]\"\n\"[short natural example]\"\n\nB) If it is an empty or custom project with no recognisable robot, reply with EXACTLY:\n\nHey! I'm Roba Copilot — ready to help you build something innovative. Here's what we can do:\n\n🤖 Custom Robot Design\n\"[creative idea]\"\n\"[creative idea]\"\n\"[creative idea]\"\n\n⚙️ Physics & Simulation\n\"[simulation idea]\"\n\"[simulation idea]\"\n\"[simulation idea]\"\n\n🛠️ Build & Experiment\n\"[experiment idea]\"\n\"[experiment idea]\"\n\"[experiment idea]\"\n\n⌨️ Code & Controls\n\"[code idea]\"\n\"[code idea]\"\n\"[code idea]\"\n\nFill every example with a short, fun, natural human request — no code, no joint values. No extra text outside the format."
+    },
+    {
+      "role": "assistant",
+      "content": "Hey! I'm Roba Copilot — your co-pilot for the Unitree G1. Here's what we can do together:\n\n🤖 Poses  \n\"Make the robot stand in a relaxed T‑pose.\"  \n\"Pose the robot to wave its right arm.\"  \n\"Set the robot into a crouching pose for a jump.\"\n\n✋ Hands  \n\"Close the left hand into a gentle fist.\"  \n\"Open the right hand to a flat palm.\"  \n\"Make both hands point forward as if holding a tray.\"\n\n🎬 Animations  \n\"Play a short walking cycle across the room.\"  \n\"Animate a waving motion with the left arm.\"  \n\"Run a smooth turning animation around its waist.\"\n\n⌨️ Code & Controls  \n\"Add keyboard shortcuts to toggle walking and standing.\"  \n\"Implement a simple controller to move the robot forward with arrow keys.\"  \n\"Create a script that makes the robot follow a circular path.\""
+    }
+  ],
+  "compressionCount": 0,
+  "workspaceRoot": "/home/robacrh/roba/roba-laravel/repos/faridhossainrd/my-mujoco-sim-1779731377",
+  "savedAt": 1779735117969
+}
