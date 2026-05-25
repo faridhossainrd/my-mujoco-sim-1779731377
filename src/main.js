@@ -293,3 +293,17 @@ export class MuJoCoDemo {
 
 let demo = new MuJoCoDemo();
 await demo.init();
+// Keyboard shortcuts for Unitree G1 joint control
+window.addEventListener('keydown', (e) => {
+  const ctrl = demo.data.ctrl;
+  switch(e.key) {
+    case 'w': ctrl[29] = -1.2; break; // right shoulder pitch forward
+    case 's': ctrl[29] = 1.2; break;  // backward
+    case 'a': ctrl[30] = -0.5; break; // right shoulder roll outward
+    case 'd': ctrl[30] = 0.5; break;  // roll inward
+    case 'q': ctrl[32] = 1.2; break;  // right elbow bend
+    case 'e': ctrl[32] = -1.2; break; // straighten
+    case 'z': ctrl[34] = 0.4; break;  // wrist pitch up
+    case 'x': ctrl[34] = -0.4; break; // down
+  }
+});
